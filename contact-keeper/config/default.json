@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://jjn_palak11:<password>@cluster0.ptg1upv.mongodb.net/?retryWrites=true&w=majority",
+    "env":{
+        "JWT_SECRET":"secret"
+    }
+}
